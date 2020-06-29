@@ -15,7 +15,8 @@ OSO es un juego que consiste en lo siguiente:
   - 2-Toro: Esta modalidad es esencialmente igual que la anterior, pero en este caso, además de estar identificadas las fronteras superior e inferior, y las fronteras derecha e izquierda, también están identificadas las fronteras con colores iguales. 
   Topotlogicamente hablando esta es la representación plana de un 2-toro.
   
-  Para ejecutarlo en Windows basta con ejecutar el archivo Oso.exe que hay en la carpeta EXE y para ejecutarlo en Android basta con instalar el archivo oso.apk que hay en la carpeta APK.
   Si alguien quiere ver el código o quiere modificarlo deberá entrar en la carpeta Assets, aquí están la carpeta __Scenes_ en la que están las tres escenas que he usado en Unity para hacer la aplicación. Además, en la carpeta Scripts están los archivos de código en C# para que funcione la aplicación.
+  
+  Esto tal cual no va a funcionar, no he podido subir todo el proyecto entero pues es muy grande. Para que funcione bastaría crear un proyecto de Unity y cambiar la carpeta Assets que nos da el nuevo proyecto por defecto por esta carpeta de Assets.
   
   Este código es libre para quien quiera utilizarlo, pero si se quiere utilizar es de agradecer que se mencione este repositorio.
