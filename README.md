@@ -17,15 +17,25 @@ OSO es un juego que consiste en lo siguiente:
   
   He subido también un zip en el que está el ejecutable para Windows del juego. Si se quiere probar no eliminar los archivos que hay junto al ejecutable. El ejecutable es Oso.exe.
   Una vez iniciado el juego, y que se ha elegido una modalidad veremos lo siguiente:
+  
     - En la parte de la derecha, desde arriba hasta abajo, se ve lo siguiente:
+    
       - Si es el turno del jugador 1 se verá una etiqueta con el número 1 (que simboliza que es el turno del jugador 1), si no es su turno no se verá la etiqueta.
+      
       - Se ve una etiqueta que indica los puntos del jugador 1.
+      
       - Se ve una etiqueta que indica los puntos del jugador 2.
+      
       - Si es el turno del jugador 2 se verá una etiqueta con el número 2 (que simboliza que es el turno del jugador 2), si no es su turno no se verá la etiqueta.
+      
   - En la parte de la izquierda, desde arriba hasta abajo, se ve lo siguiente:
+  
     - Un botón con la letra O, si uno de los jugadores quiere utlizar la letra O deberá pulsar este botón.
+    
     - Un botón que finaliza la partida y nos lleva de vuelta a la elección de modalidad.
+    
     - Un botón con la letra S, si uno de los jugadores quiere utlizar la letra S deberá pulsar este botón.
+    
     (Por defecto, al principio, si no se pulsa ni el botón O ni el botón S se escribirá una O).
   
   Si alguien quiere ver el código o quiere modificarlo deberá entrar en la carpeta Assets, aquí vemos la carpeta _Scenes_ en la que están las tres escenas que he usado en Unity para hacer la aplicación, y la carpeta Scripts en la que están los archivos de código en C# para que funcione la aplicación.
