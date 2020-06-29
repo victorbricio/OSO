@@ -1,5 +1,6 @@
 # OSO
 
+
 OSO es un juego que consiste en lo siguiente:
   - Hay un tablero vacío en el que cada jugador (2 jugadores) pondrán letras, las letras que pueden poner serán la O y la S indistintamente.
   - Siempre que algún jugador forme la palabra OSO ganará un punto, no importa quien puso las letras anteriores, para ganar el punto hay que poner la última letra.
