@@ -18,7 +18,6 @@ OSO es un juego que consiste en lo siguiente:
   He subido también un zip en el que está el ejecutable para Windows del juego. Si se quiere probar no eliminar los archivos que hay junto al ejecutable. El ejecutable es Oso.exe.
   
   Una vez iniciado el juego, y que se ha elegido una modalidad veremos lo siguiente:
-  
     - En la parte de la derecha, desde arriba hasta abajo, se ve lo siguiente:
       - Si es el turno del jugador 1 se verá una etiqueta con el número 1 (que simboliza que es el turno del jugador 1), si no es su turno no se verá la etiqueta.
       - Se ve una etiqueta que indica los puntos del jugador 1.
